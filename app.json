@@ -1,7 +1,7 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
-    "logo": "",
+    "name": "𝚆𝙷𝙿_𝙱𝙾𝚃_𝚂𝚁_𝙳𝙸𝙽𝚄_𝙼𝙳-SESSION-Success◄⚡",
+    "description": "I'm 𝚆𝙷𝙿_𝙱𝙾𝚃_𝚂𝚁_𝙳𝙸𝙽𝚄_𝙼𝙳",
+    "logo": "https://ibb.co/99QND3cp",
     "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
@@ -13,9 +13,9 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "",
-        "value": "",
-        "required": false 
+        "description": "𝚆𝙷𝙿_𝙱𝙾𝚃_𝚂𝚁_𝙳𝙸𝙽𝚄_𝙼𝙳",
+        "value": "8000",
+        "required": true
       }
     }   
 
